@@ -8,10 +8,11 @@ I’m a Full stack Web Developer. I enjoy building responsive and interactive we
 * ⚛️ REACT
 * 📶 FLASK
 
+## Gossip 😃
 - 🔭 I’m currently working on An interactive and reactive quiz app that grades and monitors users' progress 
 - 🌱 I’m currently learning Frontend frameworks and graphsql 
 - 👯 I’m looking to collaborate on Any Project on web development 
-- 💬 Ask me about tech.. I love tech talks :) 
+- 💬 Ask me about tech.. I love tech talks 😃 
 - ⚡ Fun fact: I love coding and football 
 
 
