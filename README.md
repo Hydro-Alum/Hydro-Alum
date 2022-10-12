@@ -1,8 +1,12 @@
-### Hi there 👋, I am Oladunjoye Olajide
-#### Full-Stack Web Development
+## Hi there 👋, I am Oladunjoye Olajide
+### Full-Stack Web Development
 I’m a Full stack Web Developer. I enjoy building responsive and interactive web projects. Currently working on a react interactive quiz application that grades and monitors users' progress.
 
-Skills: PYTHON/FLASK / REACT / JS / HTML / CSS
+## Skills
+* 💻 HTML/CSS/JS
+* 🐍 PYTHON
+* ⚛️ REACT
+* 📶 FLASK
 
 - 🔭 I’m currently working on An interactive and reactive quiz app that grades and monitors users' progress 
 - 🌱 I’m currently learning Frontend frameworks and graphsql 
