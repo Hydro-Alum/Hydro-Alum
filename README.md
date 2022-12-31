@@ -5,6 +5,7 @@ I’m a Full stack Web Developer. I enjoy building responsive and interactive we
 ## Skills
 * 💻 HTML/CSS/JS
 * 🐍 PYTHON
+* 🐉 Django
 * ⚛️ REACT
 * 📶 FLASK
 
